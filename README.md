@@ -35,6 +35,3 @@ I believe that in a modern microservices architecture, quality is measured by **
 - **Security Testing:** Integrating OWASP Top 10 automated checks into CI/CD.
 
 ---
-
-### 📫 Connect with me:
-([Linkedin](https://www.linkedin.com/in/andrei-tapardea-a8019426/))
