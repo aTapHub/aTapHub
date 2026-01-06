@@ -13,7 +13,7 @@ I am an engineering-focused SDET dedicated to building **resilient, observable, 
 
 ## 🛠️ Technical Arsenal
 - **Languages:** C# (.NET), Java, TypeScript, Python
-- **Automation:** RestSharp (API), Playwright (UI), NUnit, PactNET (Contract Testing), Postman/Newman
+- **Automation:** RestSharp (API), Selenium and Playwright (UI), NUnit, PactNET (Contract Testing), Postman/Newman
 - **Performance & Scalability:** k6, JMeter, Stress & Soak testing
 - **Observability:** Prometheus, Grafana, Mimir, Loki (The "LMP" stack)
 - **Infrastructure:** Docker, Kubernetes (Ephemeral environments), AWS, Local-Stack
