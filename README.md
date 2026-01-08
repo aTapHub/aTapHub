@@ -24,7 +24,7 @@ I am an engineering-focused SDET dedicated to building **resilient, observable, 
 - **[[Observability Stack](https://github.com/aTapHub/atp.Observability.Project)]:** Implementing a monitoring system using metrics exporters / Prometheus / login / traces to correlate performance test (k6) metrics with infrastructure health.
 - **LocalStack:** TBD
 - **[[AI model testing](https://github.com/aTapHub/atp.llama3W40k.Test)]** Using the student (local model under test -- llama) and judge ("smarter", api called model, LLM-as-a-judge) system in order to verify the quality of the answers returned by the AUT model.
-- **AI council:** Create 4 independent AI agents (senior SDET, senior Product Manager, senior Devops engineer, senior Dev engineer) that give feedback on qa/software topics.
+- **[[AI council](https://github.com/aTapHub/atp.HelperAgentsCouncil)]:** Create 4 independent AI agents (senior SDET, senior Product Manager, senior Devops engineer, senior Dev engineer) that give feedback on qa/software topics.
 - **System Design:** Currently deep-diving into distributed systems and data-intensive applications (as described in Alex Xu & Martin Kleppmann books).
 
 ---
