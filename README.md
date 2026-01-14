@@ -17,7 +17,7 @@ Pragmatic AI Integration: I study LLMs as an accelerator for the software lifecy
 - **Languages:** C# (.NET), Java, Python, TypeScript (plan to learn this alongside Playwright)
 - **Automation:** RestSharp (API), Selenium and Playwright (UI), NUnit, PactNET (Contract Testing), Postman/Newman
 - **Performance & Scalability:** k6, JMeter, Stress & Soak testing
-- **Observability:** Prometheus, Grafana, Mimir, Loki (The "LMP" stack)
+- **Observability:** Prometheus, Grafana, Mimir, Loki (The "LGTM" stack)
 - **Infrastructure:** Docker, Kubernetes (Ephemeral environments), AWS, Local-Stack
 - **Resilience:** Chaos Engineering (Gremlin, Chaos Mesh)
 
