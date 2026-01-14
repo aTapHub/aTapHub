@@ -10,6 +10,7 @@ Hi, my name is Andrei.
 
 ## 🎯 My Objective
 I am an engineering-focused SDET dedicated to building **resilient, observable, and scalable** quality systems. My goal is to bridge the gap between Development and Operations by implementing **TestOps** principles—moving beyond functional scripts into performance engineering, chaos testing, and deep-stack observability.
+
 Pragmatic AI Integration: I study LLMs as an accelerator for the software lifecycle, specifically for intelligent boilerplate generation (Code, Documentation, and Architecture Diagrams) and RAG-based advisory systems. I focus on taking the best of AI to drive engineering efficiency without sacrificing the foundational rigor required for production-grade reliability.
 
 ## 🛠️ Technical Arsenal
