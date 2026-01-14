@@ -2,9 +2,9 @@ Hi, my name is Andrei.
 
 ###  SDET | TestOps | Platform Quality Engineer
 
-📍 **Based in Bucharest, Romania** 
-[atapardea@gmail.com](mailto:atapardea@gmail.com)
-([Linkedin](https://www.linkedin.com/in/andrei-tapardea-a8019426/))
+| 📍 **Location** | Bucharest, Romania |
+| 📧 **Email** | [atapardea@gmail.com](mailto:atapardea@gmail.com) |
+| 🔗 **LinkedIn** | [Andrei Tapardea](https://www.linkedin.com/in/andrei-tapardea-a8019426/) |
 
 ---
 
