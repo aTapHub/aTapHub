@@ -3,9 +3,7 @@ Hi, my name is Andrei.
 ###  SDET | TestOps | Platform Quality Engineer
 
 | 📍 **Location** | Bucharest, Romania |  
-<br/>
 | 📧 **Email** | [atapardea@gmail.com](mailto:atapardea@gmail.com) |  
-<br/>
 | 🔗 **LinkedIn** | [Andrei Tapardea](https://www.linkedin.com/in/andrei-tapardea-a8019426/) |
 
 ---
