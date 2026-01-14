@@ -22,7 +22,7 @@ Pragmatic AI Integration: I study LLMs as an accelerator for the software lifecy
 - **Resilience:** Chaos Engineering (Gremlin, Chaos Mesh)
 
 ## 🧪 Current Focus & Projects
-- **[[API Test Framework](https://github.com/aTapHub/atp.ApiAutomation.Portfolio)]:** A high-performance C#/.NET API Test framework utilizing parallel execution and coding best practices (api factory, dependency injection).
+- **[[API Test Framework](https://github.com/aTapHub/atp.ApiAutomation.Portfolio)]:** A high-performance C#/.NET API Test framework utilizing parallel execution and coding best practices (api factory, dependency injection, resilience, tokenbuckets for request throttling).
 - **[[Observability Stack](https://github.com/aTapHub/atp.Observability.Project)]:** Implementing a monitoring system using metrics exporters / Prometheus / login / traces to correlate performance test (k6) metrics with infrastructure health.
 - **LocalStack:** TBD
 - **[[AI model testing](https://github.com/aTapHub/atp.llama3W40k.Test)]** Using the student (local model under test -- llama) and judge ("smarter", api called model, LLM-as-a-judge) system in order to verify the quality of the answers returned by the AUT model.
