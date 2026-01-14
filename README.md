@@ -1,6 +1,6 @@
 Hi, my name is Andrei.
 
-###  SDET | TestOps | QA Automation Engineer
+###  SDET | TestOps | Platform Quality Engineer
 
 📍 **Based in Bucharest, Romania** 
 [atapardea@gmail.com](mailto:atapardea@gmail.com)
