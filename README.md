@@ -14,7 +14,7 @@ I am an engineering-focused SDET dedicated to building **resilient, observable, 
 Pragmatic AI Integration: I study LLMs as an accelerator for the software lifecycle, specifically for intelligent boilerplate generation (Code, Documentation, and Architecture Diagrams) and RAG-based advisory systems. I focus on taking the best of AI to drive engineering efficiency without sacrificing the foundational rigor required for production-grade reliability.
 
 ## 🛠️ Technical Arsenal
-- **Languages:** C# (.NET), Java, Python, TypeScript (plan to learn this alongside Playwright)
+- **Languages:** C# (.NET), Java, Python
 - **Automation:** RestSharp (API), Selenium and Playwright (UI), NUnit, PactNET (Contract Testing), Postman/Newman
 - **Performance & Scalability:** k6, JMeter, Stress & Soak testing
 - **Observability:** Prometheus, Grafana, Mimir, Loki (The "LGTM" stack)
