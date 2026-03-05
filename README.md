@@ -1,3 +1,4 @@
+
 Hi, my name is Andrei.
 
 ###  SDET | TestOps | Platform Quality Engineer
@@ -38,3 +39,5 @@ I believe that in a modern microservices architecture, quality is measured by **
 - **Security Testing:** Integrating OWASP Top 10 automated checks into CI/CD.
 
 ---
+
+![unnamed (2)](https://github.com/user-attachments/assets/e82e0d5e-0362-45af-82f2-ffb87cb0fa5b)
